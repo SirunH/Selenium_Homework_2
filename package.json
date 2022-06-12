@@ -1,0 +1,19 @@
+{
+    "name": "sel_hom_js_2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha  --timeout 60000"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chromedriver": "^102.0.0",
+        "selenium-webdriver": "^4.2.0"
+    },
+    "devDependencies": {
+        "chai": "^4.3.6",
+        "mocha": "^10.0.0"
+    }
+}
